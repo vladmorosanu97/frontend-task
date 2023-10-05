@@ -4,6 +4,7 @@
 For the mock server, go to `mock-server-with-dotnet/MockServer` folder and run: 
 ### `dotnet run`
 
+## React app
 To run the React app, to `frontend-task` folder and run:
 ### `npm install`
 ### `npm start`
